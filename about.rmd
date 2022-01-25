@@ -1,0 +1,10 @@
+---
+title: "About me"
+---
+
+Here is some interesting stuff about me!!!
+
+```{r, child = "_session_info.rmd"}
+
+
+```

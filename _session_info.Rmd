@@ -1,0 +1,8 @@
+Session Information:
+
+The session infor when rendered
+
+```{r}
+
+sessionInfo()
+```
